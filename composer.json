@@ -1,0 +1,17 @@
+{
+    "name": "yuri/zinc",
+    "description": "Apprendre la Poo en Php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yuri"
+        }
+    ],
+    "require": {}
+}
